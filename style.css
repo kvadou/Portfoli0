@@ -1,50 +1,12 @@
-
-
-
-/*
-  These rules take effect when the browser's width
-  is either 768px or less.
-
-This is the HTHML code required for the media screen code below
-  <body>
-
-  <div class="wrapper">
-
-    <section id="main-content">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus sed felis consectetur auctor eget non justo. Nunc in laoreet nunc. Quisque accumsan tincidunt neque, at dictum turpis. In hac habitasse platea dictumst. </p>
-    </section>
-
-    <section id="sidebar">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tellus sed felis consectetur auctor eget non justo. Nunc in laoreet nunc. Quisque accumsan tincidunt neque, at dictum turpis. In hac habitasse platea dictumst. </p>
-    </section>
-
-  </div>
-
-</body>
-
-</html>
-
-
-*/
-@media screen and (max-width: 768px) {
-    /* The body's bg color will be #333 */
-    body {
-      background-color: #333;
-    }
-  
-    /* The wrapper's width will be 600px */
-    .wrapper {
-      width: 100%;
-      padding: 20px;
-      
-    }
-    
-    #main-content,
-    #sidebar {
-      width: 100%;
-    }
-  
-    #sidebar {
-      margin-top: 40px;
-    }
-  }
+.fa-linkedin {
+    font-size: 50px;
+    background-color:white;
+    color: #0073b1;
+    padding: 5px;
+}
+.fa-github-alt {
+    font-size: 50px;
+    padding: 5px;
+    background-color: white;
+    color: black;
+}
