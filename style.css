@@ -1,16 +1,16 @@
 /* increase the size of the linkedin button */
 .fa-linkedin {
-    font-size: 50px;
-    background-color:white;
-    color: #0073b1;
-    padding: 5px;
+  font-size: 50px;
+  background-color: white;
+  color: #0073b1;
+  padding: 5px;
 }
 /* increase the size of the github button */
 .fa-github-alt {
-    font-size: 50px;
-    padding: 5px;
-    background-color: white;
-    color: black;
+  font-size: 50px;
+  padding: 5px;
+  background-color: white;
+  color: black;
 }
 /* footer CSS */
 /* Sticky Footer Classes */
@@ -30,6 +30,14 @@ body {
 /* Other Classes for Page Styling */
 
 body {
+  min-height: 100vh;
   background: #007bff;
-  background: linear-gradient(to right, #0062E6, #33AEFF);
+  background: linear-gradient(to right, #0062e6, #33aeff);
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Set the fixed height of the footer here */
 }
