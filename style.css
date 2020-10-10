@@ -35,9 +35,12 @@ body {
   background: linear-gradient(to right, #0062e6, #33aeff);
 }
 
-.footer {
-  position: absolute;
+footer {
+  position: fixed;
   bottom: 0;
   width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 60px; /* Set the fixed height of the footer here */
 }
