@@ -32,7 +32,7 @@ body {
 body {
   min-height: 100vh;
   background: #007bff;
-  background: linear-gradient(to right, #0062e6, #33aeff);
+  background: linear-gradient(to right, #0062e6, #83c9f8);
 }
 
 footer {
@@ -43,4 +43,8 @@ footer {
   align-items: center;
   justify-content: center;
   height: 60px; /* Set the fixed height of the footer here */
+}
+
+.col-md-3 {
+  text-align: center;
 }
