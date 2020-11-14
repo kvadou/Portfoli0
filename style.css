@@ -12,6 +12,19 @@
   background-color: white;
   color: black;
 }
+/*increase the size of resume button */
+.fa-file-image {
+  font-size: 50px;
+  padding: 5px;
+  background-color: white;
+  color: black;
+}
+
+.fa-file-image {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
 /* footer CSS */
 /* Sticky Footer Classes */
 html,
