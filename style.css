@@ -61,3 +61,7 @@ footer {
 .col-md-3 {
   text-align: center;
 }
+
+.btn-primary {
+  background: linear-gradient(to right, black, rgb(56, 56, 77));
+}
