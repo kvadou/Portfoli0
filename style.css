@@ -12,6 +12,10 @@
   background-color: white;
   color: black;
 }
+.fa-github {
+  font-size: 20px;
+  color: white;
+}
 /*increase the size of resume button */
 .fa-file-alt {
   font-size: 50px;
