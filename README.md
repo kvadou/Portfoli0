@@ -4,4 +4,4 @@ Built a mobile responsive portfolio website with Bootsrap CSS Framework. 3 pages
 
 Semantic HTML was included along with alt image descriptions for accessability. HTML was validated using validator.w3.org.
 
-![Screen Shot 2020-10-12 at 9 13 26 PM](https://user-images.githubusercontent.com/15655389/95807429-c783cf80-0ccf-11eb-831d-a10dc5c77872.png)
+![Screen Shot 2020-11-19 at 10 39 04 AM](https://user-images.githubusercontent.com/15655389/99695704-7c3da900-2a53-11eb-8b2e-21f0d5207dda.png)
