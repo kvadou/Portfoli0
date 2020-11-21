@@ -69,3 +69,9 @@ footer {
 .btn-primary {
   background: linear-gradient(to right, black, rgb(56, 56, 77));
 }
+
+.card-header {
+  background: linear-gradient(to right, black, rgb(56, 56, 77));
+
+  color: white;
+}
